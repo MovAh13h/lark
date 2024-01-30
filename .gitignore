@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+/.cache
+/external
+/bazel-*
+compile_commands.json
